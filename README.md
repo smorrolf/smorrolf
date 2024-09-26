@@ -15,4 +15,9 @@ www.linkedin.com/in/sarah-m87 || smorrolf@iu.edu || Indianapolis, IN
 
 ## Current Projects
 - Investigating novel insights in protein expression datasets for trisomic and control mice using R
-- Applied Data Science coursework: Machine learning, data wrangling, and visualization
+- Current Applied Data Science coursework: Statistics in R, Mathematical and Logical Foundations of Informatics, and Introduction to Data Science
+- Internship: Finalizing data storage formats and integrating data into a reporting dashboard 
+
+
+## *Note to Audience
+- See repository README.md files to learn more about past/current projects featured here in my portfolio!
