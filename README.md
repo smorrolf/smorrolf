@@ -13,10 +13,9 @@
 - Data Visualization: ggplot2, Matplotlib, PowerBI, Tableau, Google Looker Studio
 - Project Experience: freelance nonprofit internship, data visualization projects, statistics projects, data analysis competition champion
 
-## Current Projects
-- Investigating novel insights in protein expression datasets for trisomic and control mice using R
-- Current Applied Data Science coursework: Statistics in R, Mathematical and Logical Foundations of Informatics, and Introduction to Data Science
-- Internship: Finalizing data storage formats and integrating data into a reporting dashboard 
+## Featured Projects
+- Data Visualization Internship Repository: Highlights my PowerBI dashboard I made with mock data
+- 
 
 
 ## Note to Audience
