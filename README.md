@@ -19,6 +19,7 @@
 - Internship: Finalizing data storage formats and integrating data into a reporting dashboard 
 
 
-## *Note to Audience
+## Note to Audience
+- This is my first time using GitHub, and I'm actively learning how to navigate and utilize it effectively
 - See repository README.md files to learn more about past/current projects featured here in my portfolio!
 - More content coming soon!
