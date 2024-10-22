@@ -1,5 +1,5 @@
 # Sarah Morrolf
-www.linkedin.com/in/sarah-m87 || smorrolf@iu.edu || Indianapolis, IN
+[LinkedIn](www.linkedin.com/in/sarah-m87) || smorrolf@iu.edu || Indianapolis, IN
 
 🎓 Recent college graduate with a degree in Statistics and current graduate student in Applied Data Science  
 📊 Skilled in data analysis, statistical modeling, and R, with a growing proficiency in Python  
