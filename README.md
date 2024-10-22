@@ -14,8 +14,10 @@
 - Project Experience: freelance nonprofit internship, data visualization projects, statistics projects, data analysis competition champion
 
 ## Featured Projects
-- Data Visualization Internship Repository: Highlights my PowerBI dashboard I made with mock data
-- 
+- Data Visualization Internship Repository: Highlights my **PowerBI** dashboard I made with mock data
+- Crossroads Classic Analytics Challenge: Explains process of placing first in the state wide competition with link to **Tableau Public** to show the dashboard my group and I created
+- Data Management & Integration Internship: The project is wrapping up now so content coming soon!
+- More about me: 
 
 
 ## Note to Audience
