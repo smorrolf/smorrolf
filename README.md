@@ -16,7 +16,7 @@
 ## Featured Projects/Repositories 
 - **Data Visualization Internship**: Showcases my **Power BI** dashboard created with mock data.
 - **Crossroads Classic Analytics Challenge:** Details the process behind my first-place finish in the statewide competition, featuring a link to my **Tableau Public** dashboard created in collaboration with my team.
-- **Data Management & Integration Internship:** The project is nearing completion, with content to be added soon!
+- **Data Management & Integration Internship:** This project is nearing completion, with content to be added soon! It will feature my **Looker** dashboard, which provides an evaluation of the non-profit tutoring activities.
 - **More About Me:** Provides an overview of my background and includes information about my current **R** project from my Statistics for Data Science graduate program.
 
 
