@@ -8,7 +8,7 @@
 🎯 Actively seeking opportunities to work as a Data Analyst, with an interest in data science roles  
 
 ## Key Skills
-- Data Analysis: R, Python, SQL
+- Data Analysis: R, Python, SQL, Excel
 - Statistical Modeling: Regression, Hypothesis Testing, ANOVA
 - Data Visualization: ggplot2, Matplotlib, PowerBI, Tableau, Google Looker Studio
 - Project Experience: freelance nonprofit internship, data visualization projects, statistics projects, data analysis competition champion
